@@ -1,11 +1,12 @@
-# 🎄 Advent of Code
+# 🎄 Advent of Code - Typescript
 
-My 'chocolate-free' Advent Calendar
+My 'chocolate-free' Advent Calendar for TypeScript
 
 [![2020 Progress](https://img.shields.io/badge/2020-25%2F25-f5ef42)](./src/2020/)
 [![2019 Progress](https://img.shields.io/badge/2019-3%2F25-f5ef42)](./src/2019/)
 
-[![CI](https://github.com/jforatier/advent-of-code/workflows/CI/badge.svg)](https://github.com/jforatier/advent-of-code/actions) [![codecov](https://codecov.io/gh/jforatier/advent-of-code/branch/master/graph/badge.svg?token=A1B23U0Q29)](https://codecov.io/gh/jforatier/advent-of-code) ![Code size](https://img.shields.io/github/languages/code-size/jforatier/advent-of-code)
+[![CI](https://github.com/jforatier/advent-of-code/workflows/CI/badge.svg)](https://github.com/jforatier/advent-of-code/actions) 
+[![codecov](https://codecov.io/gh/jforatier/advent-of-code/branch/master/graph/badge.svg?token=A1B23U0Q29)](https://codecov.io/gh/jforatier/advent-of-code)
 
 ------
 
